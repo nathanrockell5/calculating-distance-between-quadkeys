@@ -22,7 +22,7 @@ Quadkeys are useful for various purposes, including caching map tiles, identifyi
 
 This article demonstrates how to easily find the distance between two quadkeys, returning how far left or right, up or down that quadkey is in relation to the other, regardless of the level of detail.
 
-## Visualization
+## Visualisation
 
 | - | - | - | - | - | - | - | - |
 | --- | --- | --- | --- | --- | --- | --- | --- |
