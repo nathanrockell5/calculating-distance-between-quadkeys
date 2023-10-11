@@ -1,3 +1,11 @@
+"""
+__author__ = "Nathan Rockell"
+__copyright__ = "Copyright (C) 2023 Nathan Rockell"
+__license__ = "Public Domain"
+__version__ = "1.0"
+"""
+
+
 from pyquadkey2 import quadkey
 import time
 
